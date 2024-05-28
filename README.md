@@ -42,3 +42,11 @@ Welcome to the Trivia Quiz Game! This is an engaging and educational application
 - At the end of the quiz, your total score will be displayed.
 4. **Quit Game**:
 - You can quit the game at any time by clicking the "Quit" button.
+
+## Screenshot
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## License
+This project is licensed under the MIT License.
